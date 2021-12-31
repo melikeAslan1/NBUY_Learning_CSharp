@@ -1,0 +1,14 @@
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\obj\Debug\netcoreapp3.1\Day_3.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\obj\Debug\netcoreapp3.1\Day_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\obj\Debug\netcoreapp3.1\Day_3.AssemblyInfoInputs.cache
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\obj\Debug\netcoreapp3.1\Day_3.AssemblyInfo.cs
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\obj\Debug\netcoreapp3.1\Day_3.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\bin\Debug\netcoreapp3.1\Day_3.exe
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\bin\Debug\netcoreapp3.1\Day_3.deps.json
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\bin\Debug\netcoreapp3.1\Day_3.runtimeconfig.json
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\bin\Debug\netcoreapp3.1\Day_3.runtimeconfig.dev.json
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\bin\Debug\netcoreapp3.1\Day_3.dll
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\bin\Debug\netcoreapp3.1\Day_3.pdb
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\obj\Debug\netcoreapp3.1\Day_3.dll
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\obj\Debug\netcoreapp3.1\Day_3.pdb
+C:\Users\303MELİKE_SABAH\Source\Repos\Day_3\Day_3\obj\Debug\netcoreapp3.1\Day_3.genruntimeconfig.cache
