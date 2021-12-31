@@ -210,6 +210,8 @@ namespace Day_5
             }
             Console.WriteLine("tek sayı adedi: " + sayi);   */
 
+            //YENİ BİR SATİR EKLEDİMM..
+
 
 
 
