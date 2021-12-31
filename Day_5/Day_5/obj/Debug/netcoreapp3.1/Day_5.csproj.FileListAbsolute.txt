@@ -1,0 +1,14 @@
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\bin\Debug\netcoreapp3.1\Day_5.exe
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\bin\Debug\netcoreapp3.1\Day_5.deps.json
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\bin\Debug\netcoreapp3.1\Day_5.runtimeconfig.json
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\bin\Debug\netcoreapp3.1\Day_5.runtimeconfig.dev.json
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\bin\Debug\netcoreapp3.1\Day_5.dll
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\bin\Debug\netcoreapp3.1\Day_5.pdb
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\obj\Debug\netcoreapp3.1\Day_5.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\obj\Debug\netcoreapp3.1\Day_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\obj\Debug\netcoreapp3.1\Day_5.AssemblyInfoInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\obj\Debug\netcoreapp3.1\Day_5.AssemblyInfo.cs
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\obj\Debug\netcoreapp3.1\Day_5.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\obj\Debug\netcoreapp3.1\Day_5.dll
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\obj\Debug\netcoreapp3.1\Day_5.pdb
+C:\Users\303MELİKE_SABAH\Desktop\projeler\Day_5\Day_5\obj\Debug\netcoreapp3.1\Day_5.genruntimeconfig.cache
