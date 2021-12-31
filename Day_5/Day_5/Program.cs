@@ -196,21 +196,135 @@ namespace Day_5
                      }
                      Console.WriteLine("pozitif: " + pozitif + "\n negatif: " + negatif + "\n isaretsiz: " + isaretsiz);     */
 
-      /*    int[] dizi = { 10, 15, 20, 33, 98, 56, 22, 45, 98,99 };
-            int sayi = 0;
-            Console.WriteLine("tek sayılar: ");
+            /*    int[] dizi = { 10, 15, 20, 33, 98, 56, 22, 45, 98,99 };
+                  int sayi = 0;
+                  Console.WriteLine("tek sayılar: ");
 
-            foreach(int i in dizi)
-            {
-                if (i % 2 != 0) { 
-                    Console.WriteLine(i);
-                sayi++;
-                                        }
+                  foreach(int i in dizi)
+                  {
+                      if (i % 2 != 0) { 
+                          Console.WriteLine(i);
+                      sayi++;
+                                              }
 
-            }
-            Console.WriteLine("tek sayı adedi: " + sayi);   */
+                  }
+                  Console.WriteLine("tek sayı adedi: " + sayi);   */
 
-            //YENİ BİR SATİR EKLEDİMM..
+
+            //// dizideki sayısal ifadelerin adet bilgisini yazdıran program
+            ////benim sorumm
+
+            //object [] dizi = { "1", "98", "h", "g" };
+
+            //int sayi = 0;
+
+
+
+            //for (int i = 0; i < dizi.Length; i++)
+
+            //{
+
+            //  int  s =(int) dizi[i];
+            //    int a = 1;
+            //    if (a.GetType()==s.GetType())
+            //    {
+            //        sayi++;
+
+            //    }
+
+            //}
+            //Console.WriteLine(sayi);
+
+            /*    // klavyeden girilen metnin içindeki sesli ve sessiz harflerin sayısı
+
+                //Bu soruyu kendin çözzzz.
+
+                string cumle;
+                int seslisayac = 0;
+                int sessizsayac = 0;
+                Console.Write("Metni Giriniz:");
+                cumle = Console.ReadLine();
+                char[] sesliler = { 'ü', 'ö', 'ı', 'a', 'e', 'i', 'o', 'u' };
+                for (int x = 0; x < cumle.Length; x++) //metin
+                {
+                    for (int i = 0; i < sesliler.Length; i++) //sesliler lenght =8
+                    {
+                        if (cumle[x] == sesliler[i])
+                        {
+                            seslisayac++;
+                        }
+
+                    }
+                }
+                sessizsayac = cumle.Length - seslisayac;
+                Console.WriteLine("sesli harfler:" + seslisayac.ToString());
+                Console.WriteLine("sessiz harfler:" + sessizsayac.ToString());              */
+
+            //ÖDEV: Klavyeden girilen İngilizce karakteler ve küçük harflerden oluşan bir metni büyük harflerçeviren C# programı oluşturunuz
+
+            //klavyeden girilen sayıya kadar olan asal sayıları yaz.
+
+            /*        Console.WriteLine("sayi giriniz: ");
+                    int sayi = Convert.ToInt32(Console.ReadLine());
+
+                    for (int i = 2; i <=sayi; i++)
+                    {
+                       for(int y=2; y<i; y++)
+                        {
+                            if(i%y!=0)
+                            {
+                                Console.WriteLine(i);
+
+                            }
+                        }
+
+                    }                                */
+            /*       uğur çözümü:
+
+                       onsole.WriteLine("Lütfen sayı giriniz : ");
+                   int sayi = int.Parse(Console.ReadLine());
+
+
+                   for (int i = 2; i <= sayi; i++)
+                   {
+                       int sayac = 0;
+
+                       for (int j = 2; j < i; j++)
+                       {
+                           if (i % j == 0)
+                           {
+                               sayac = 1;
+                               break;
+                           }
+                       }
+                       if (sayac == 0)
+                       {
+                           Console.WriteLine(i);
+
+                       }
+                   }               */
+
+            /*   Console.WriteLine("sayi: ");
+
+               int sayi = Convert.ToInt32(Console.ReadLine());
+
+               int   toplam = (sayi - 1) + (sayi - 2);
+
+               Console.WriteLine("toplam:" + toplam);  */
+
+          /*  string[] isimler = { "Uğur Okan", "Semanur", "Mahmut", "Neslihan", "Görkem", "Melike", "Ezgi", "Enes", "Tuğba", "Abdullah", "Dicle", "Kerem", "Tuğçe" };
+            Random rastgelesayi = new Random();
+            int no = rastgelesayi.Next(0, isimler.Length);
+            Console.WriteLine("Soruyu soracak şanslı kişi : " + "******" + isimler[no] + "******");
+            Console.ReadKey();   */
+
+
+
+
+
+
+
+
 
 
 
