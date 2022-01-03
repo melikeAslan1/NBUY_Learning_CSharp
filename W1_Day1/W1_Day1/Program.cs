@@ -93,6 +93,8 @@ namespace W1_Day1
             Console.WriteLine("kurus=" + kurus);
 
 
+            //convert yuvarlama yapar. Casting , en sonrasını direk atar.
+
 
 
 
