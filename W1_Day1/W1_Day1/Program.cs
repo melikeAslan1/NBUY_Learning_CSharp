@@ -89,8 +89,9 @@ namespace W1_Day1
 
             Console.WriteLine("d= " + kdv.ToString());
 
-            int kurus = Convert.ToInt32()
-            Console.WriteLine("kurus= " + kurus);
+            int kurus = Convert.ToInt32(kdv * 100);
+            Console.WriteLine("kurus=" + kurus);
+
 
 
 
