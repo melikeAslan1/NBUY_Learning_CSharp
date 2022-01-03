@@ -1,0 +1,14 @@
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\bin\Debug\netcoreapp3.1\W1_Day1.exe
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\bin\Debug\netcoreapp3.1\W1_Day1.deps.json
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\bin\Debug\netcoreapp3.1\W1_Day1.runtimeconfig.json
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\bin\Debug\netcoreapp3.1\W1_Day1.runtimeconfig.dev.json
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\bin\Debug\netcoreapp3.1\W1_Day1.dll
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\bin\Debug\netcoreapp3.1\W1_Day1.pdb
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\obj\Debug\netcoreapp3.1\W1_Day1.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\obj\Debug\netcoreapp3.1\W1_Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\obj\Debug\netcoreapp3.1\W1_Day1.AssemblyInfoInputs.cache
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\obj\Debug\netcoreapp3.1\W1_Day1.AssemblyInfo.cs
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\obj\Debug\netcoreapp3.1\W1_Day1.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\obj\Debug\netcoreapp3.1\W1_Day1.dll
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\obj\Debug\netcoreapp3.1\W1_Day1.pdb
+C:\Users\303MELİKE_SABAH\Documents\GitHub\NPUY_Learning_C-\W1_Day1\W1_Day1\obj\Debug\netcoreapp3.1\W1_Day1.genruntimeconfig.cache
