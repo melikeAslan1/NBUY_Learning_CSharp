@@ -30,22 +30,87 @@ namespace W2_Day4
 
             // en ve yükseklik klavyeden gir, zemin lacivert yazılar sarı olsun.
 
-          /*  Console.BackgroundColor = ConsoleColor.DarkBlue;
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            /*    Console.BackgroundColor = ConsoleColor.DarkBlue;
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
 
-            Console.WriteLine("en: ");
-            int en = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("en: ");
+                int en = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("boy: ");
-            int boy = Convert.ToInt32(Console.ReadLine());                  */
-
-
+                Console.WriteLine("boy: ");
+                int boy = Convert.ToInt32(Console.ReadLine());                               */
 
 
 
 
+            // bi değişkeni bulmak için yada fonksiyonu F12 de.  ctrl -      geri dönmek için kullanılır.
 
 
-        }
+
+
+            /*      //girilen sayıya kadar olan sayıları çift mi tek mi olduğunu yaz.
+                  Console.WriteLine("sayi giriniz: ");
+                  int sayi = Convert.ToInt32(Console.ReadLine());
+
+                  int a = 1;
+
+                  while(a<=sayi)
+                  {
+                      if (a % 2 == 0)
+                      {
+                          Console.WriteLine(a + "sayısı cifttir.");
+                      }
+                      else if(a%2!=0) {
+
+                          Console.WriteLine(a + "sayısı tektir.");                }
+
+                           a++;
+                  }                                                                */
+
+            /*    //ekrandan girilen değerleri yazan, ÇIK yazınca döngüden cıksın.
+
+
+                string ifade = "";
+
+                for(; ; )
+                {
+                    Console.WriteLine("bır yazı yazın cıkmak için ÇIK yazın.");
+                    ifade = Console.ReadLine();
+                    if (ifade.ToUpper() == "ÇIK")
+                    {
+                        break;
+                    }
+
+                    Console.WriteLine(ifade);
+                }
+
+                Console.WriteLine("program sonu");                   */
+
+
+
+            Console.WriteLine("sayi giriniz: ");
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
+}
 }
