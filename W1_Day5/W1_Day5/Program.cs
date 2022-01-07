@@ -62,23 +62,53 @@ namespace W1_Day5
                       Console.WriteLine(i);                                                      */
 
 
-            double fiyat, toplam = 0;
-            double kdvLiFiyat = 0;
-            string str;
-            for(int i=1; i<=5; i++)
-            {
-                
-                Console.WriteLine(i+". ürünün fiyatını giriniz: ");
-                
-                str = Console.ReadLine();
-                Double.TryParse(str, out fiyat);
-                kdvLiFiyat =Math.Round(( fiyat * 1.18),2);
-                Console.WriteLine("kdv li fiyat: "+ kdvLiFiyat);
+            /*   double fiyat, toplam=0, kdvLiFiyat;
+               string str;
+               for(int i=1; i<=5; i++)
+               {
 
-                toplam += kdvLiFiyat;
-                
+                   Console.WriteLine(i+". ürünün fiyatını giriniz: ");
+
+                   str = Console.ReadLine();
+                   Double.TryParse(str, out fiyat);
+                   kdvLiFiyat =Math.Round(( fiyat * 1.18),2);
+                   Console.WriteLine("kdv li fiyat: "+ kdvLiFiyat);
+
+                   toplam += kdvLiFiyat;
+
+               }
+               Console.WriteLine("toplam fiyat: "+toplam);               */
+
+
+            /*  int araToplam;
+              int toplam=0;
+              for(int i=1; i<=10; i++)
+              {
+                  araToplam = 1;
+
+                  for(int y=1; y<=i; y++)
+                  {
+                      araToplam *= y;
+
+                  }
+                  toplam += araToplam;
+                  Console.WriteLine(i + "faktöriyeli: "+ araToplam);
+              }
+              Console.WriteLine("toplam: "+toplam);                */
+
+
+
+            string yildiz = "**********************************************************************";
+            string a = "";
+            for(int i=1; i<=10; i++)
+            {
+                a=yildiz.Substring(0,i);
+                Console.WriteLine(a);
             }
-            Console.WriteLine("toplam fiyat: "+Math.Round(toplam,2));
+
+
+
+
 
 
 
