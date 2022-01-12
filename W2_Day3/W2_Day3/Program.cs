@@ -30,25 +30,56 @@ namespace W2_Day3
 
               DiziYaz(dizim);                           */
 
-          /*  int[] a = { 1, 3, 5, 66, 88,77 };
-            List<int> b = new List<int>();
+            /*  int[] a = { 1, 3, 5, 66, 88,77 };
+              List<int> b = new List<int>();
 
-            b = tekDizi(a);
-            foreach (var item in b)
+              b = tekDizi(a);
+              foreach (var item in b)
+              {
+                  Console.WriteLine(item +" ");
+              }                      */
+
+
+            /*    List<int> a = new List<int>();
+                a = sayiGetir10();
+                Console.WriteLine("Girilen Sayılar: ");
+                foreach (var item in a)
+                {
+                    Console.WriteLine(item+" ");
+                }                                                 */
+
+
+            /* Console.WriteLine("en giriniz: ");
+               double en = Convert.ToDouble(Console.ReadLine());
+               Console.WriteLine("boy giriniz: ");
+               double boy = Convert.ToDouble(Console.ReadLine());
+               cevreVealan(en,boy);                                              */
+
+
+            List<string> gelenYazilar = cokYaz(5);
+
+
+
+
+
+
+
+         }
+
+        
+
+        // liste tipinde aldığı 10 adet sayının karelerini List tipinde döndüren metodu yaz. (2 tane list olacak).
+
+        static List<int> kareleri(List<int> onsayi)
+        {
+            List<int> diziKareleri = new List<int>();
+
+            foreach (var item in onsayi)
             {
-                Console.WriteLine(item +" ");
-            }                      */
-
-
-
-
-
-
-
-
-
-         }    
-
+                diziKareleri.Add(onsayi[item] * onsayi[item]);
+            }
+            return diziKareleri;
+        }
 
 
 
@@ -169,7 +200,96 @@ namespace W2_Day3
                 buyuk = sayi2;
             }
             return buyuk;
-        } 
+        }
+        
+        //liste sorusu: kullanıcıdan 10 sayı alıp liste ile döndüren metod.  metod ismi:sayiGetir10
+
+        static List<int> sayiGetir10()
+        {
+            List<int> sayiGetir = new List<int>();
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("sayi "+ (i+1) +"giriniz:");
+                int sayi = Convert.ToInt32(Console.ReadLine());
+                sayiGetir.Add(sayi);
+            }
+            return sayiGetir;
+        }
+
+        //parametreler(enKucuk, enBuyuk, sayiAdedi)
+        //metot: bu parametreleri alıp sayiAdedi kadar enKucuk ile enBuyuk arasında rastgele sayi üretip liste olarak geri dönsün.
+
+        static List<int> SayiUret(int enKucuk, int enBuyuk, int sayiAdedi)
+        {
+            Random r = new Random();
+            List<int> sonucListem = new List<int>();
+            for (int i = 0; i < sayiAdedi; i++)
+            {
+                sonucListem.Add(r.Next(enKucuk, enBuyuk));
+            }
+            return sonucListem;
+        }
+
+        //listeyi tek string yapan metodd
+
+        static string ListToString (List<string> kelimeler)
+        {
+            string sonuc = "";
+            foreach (var item in kelimeler)
+            {
+                sonuc += item;
+            }
+            return sonuc;
+        }
+
+       
+
+        static void cevreVealan (double en,double boy)
+        {
+           
+            double cevre = (en + boy) * 2;
+            double alan = en * boy;
+
+            Console.WriteLine("cevre: " + cevre);
+            Console.WriteLine("alan: " + alan);
+
+        }
+
+        // 1.metot: kullanıcıdan veri girişi alan ve girilen stringi geri dönen Yaz() metodu.
+
+        //2.metot: cokYaz(int adet) adet kadar input(Yaz) alacak, List halinde geri döndürecek.
+        
+        static string Yaz()
+        {
+            Console.WriteLine("string giriniz: ");
+
+            string sonuc = Console.ReadLine();
+
+            return sonuc;
+        }
+
+        static List<string> cokYaz(int adet)
+        {
+            List<string> yazilar = new List<string>();
+            for (int i = 0; i < adet; i++)
+            {
+                
+                yazilar.Add(Yaz());
+                
+            }
+            return yazilar;
+        }
+
+        
+
+
+      
+
+
+
+
+
 
 
         }
